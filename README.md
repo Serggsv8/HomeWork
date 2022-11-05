@@ -7,6 +7,6 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 
-[Блок-схема](\EX001\temp1.drawio.png)
+[Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX001/temp1.drawio.png)
 
-[Решение Код](\EX001\Program.cs)
+[Решение Код]([\EX001\Program.cs](https://github.com/Serggsv8/HomeWork/blob/main/EX001/Program.cs))
