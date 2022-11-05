@@ -9,4 +9,4 @@ a = -9 b = -3 -> max = -3
 
 [Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX001/temp1.drawio.png)
 
-[Решение Код]([\EX001\Program.cs](https://github.com/Serggsv8/HomeWork/blob/main/EX001/Program.cs))
+[Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX001/Program.cs)
