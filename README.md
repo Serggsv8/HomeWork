@@ -22,6 +22,6 @@ a = -9 b = -3 -> max = -3
 
 22 3 9 -> 22
 
-[Блок-схема]()
+[Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX002/temp4.drawio.png)
 
-[Решение Код]()
+[Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX002/Program.cs)
