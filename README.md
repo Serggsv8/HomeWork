@@ -37,6 +37,6 @@ a = -9 b = -3 -> max = -3
 
 7 -> нет
 
-[Блок-схема]()
+[Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX003/temp6.drawio.png)
 
-[Решение Код]()
+[Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX003/Program.cs)
