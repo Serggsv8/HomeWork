@@ -40,3 +40,13 @@ a = -9 b = -3 -> max = -3
 [Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX003/temp6.drawio.png)
 
 [Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX003/Program.cs)
+
+Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+5 -> 2, 4
+
+8 -> 2, 4, 6, 8
+
+[Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX004/temp8.drawio.png)
+
+[Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX004/Program.cs)
