@@ -1,6 +1,9 @@
-﻿int numb1 = 44;
-int numb2 = 5;
-int numb3 = 78;
+﻿Console.WriteLine("Введите число numb1: ");
+int numb1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число numb2: ");
+int numb2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число numb3: ");
+int numb3 = Convert.ToInt32(Console.ReadLine());
 int max = numb1;
 
 if(numb2 > max)

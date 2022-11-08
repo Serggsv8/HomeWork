@@ -1,5 +1,7 @@
-﻿int a = -9;
-int b = -3;
+﻿Console.WriteLine("Введите число a: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число b: ");
+int b = Convert.ToInt32(Console.ReadLine());
 int min = 0;
 int max = 0;
 
