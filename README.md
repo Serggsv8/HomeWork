@@ -50,3 +50,11 @@ a = -9 b = -3 -> max = -3
 [Блок-схема](https://github.com/Serggsv8/HomeWork/blob/main/EX004/temp8.drawio.png)
 
 [Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX004/Program.cs)
+
+
+Семинар 2
+
+Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+[Решение Код]()
+
