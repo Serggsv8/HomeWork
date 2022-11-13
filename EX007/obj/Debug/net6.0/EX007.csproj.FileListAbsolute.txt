@@ -1,0 +1,15 @@
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.csproj.AssemblyReference.cache
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.AssemblyInfoInputs.cache
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.AssemblyInfo.cs
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.csproj.CoreCompileInputs.cache
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\bin\Debug\net6.0\EX007.exe
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\bin\Debug\net6.0\EX007.deps.json
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\bin\Debug\net6.0\EX007.runtimeconfig.json
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\bin\Debug\net6.0\EX007.dll
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\bin\Debug\net6.0\EX007.pdb
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.dll
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\refint\EX007.dll
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.pdb
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\EX007.genruntimeconfig.cache
+C:\Users\MG\Desktop\HomeWork\HomeWork_C#\EX007\obj\Debug\net6.0\ref\EX007.dll
