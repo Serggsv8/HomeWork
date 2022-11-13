@@ -68,3 +68,12 @@ a = -9 b = -3 -> max = -3
 32679 -> 6
 
 [Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX006/Program.cs)
+
+Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели,
+и проверяет, является ли этот день выходным.
+
+6 -> да
+7 -> да
+1 -> нет
+
+[Решение Код](https://github.com/Serggsv8/HomeWork/blob/main/EX007/Program.cs)
